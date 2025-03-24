@@ -2,7 +2,11 @@
 
 🐧 🐻‍❄️ 🐳
 
-Hi, mein Name ist Chris. Mein Spitzname ist **Polarchris** . Ich bin 42 Jahre, wohne in *Berlin* und habe drei Jobs. Meine hauptberufliche Tätigkeit ist Expeditionsleiter auf Schiffen, die die Polarregionen ansteuern. <br> Mein zweiter Job ist Produktentwickler für einen deutschen Reiseveranstalter, der auf Reisen nach Skandinavien und in die Polarregionen spezialisiert ist. <br> Freiberuflich arbeite ich auch als Fotograf für Projekte, die mich interessieren oder mir Spaß machen. 
+Hi, mein Name ist Chris. Mein Spitzname ist **Polarchris** . Ich bin 42 Jahre, wohne in *Berlin* und habe drei Jobs. Meine hauptberufliche Tätigkeit ist Expeditionsleiter auf Schiffen, die die Polarregionen ansteuern. <br> 
+
+Mein zweiter Job ist Produktentwickler für einen deutschen Reiseveranstalter, der auf Reisen nach Skandinavien und in die Polarregionen spezialisiert ist. <br> 
+
+Freiberuflich arbeite ich auch als Fotograf für Projekte, die mich interessieren oder mir Spaß machen. 
 
 https://giphy.com/gifs/sesamestreet-oscar-sesame-street-the-grouch-Cyt0L6duOJV6ZZw48f
 
@@ -18,4 +22,4 @@ https://giphy.com/gifs/sesamestreet-oscar-sesame-street-the-grouch-Cyt0L6duOJV6Z
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=f5Uiwmg9cH0" 
 target="_blank"><img src="http://img.youtube.com/vi/f5Uiwmg9cH0/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="450" height="350" border="10" /></a>
