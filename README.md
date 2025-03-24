@@ -15,3 +15,7 @@ https://giphy.com/gifs/sesamestreet-oscar-sesame-street-the-grouch-Cyt0L6duOJV6Z
 - sleep
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=f5Uiwmg9cH0" 
+target="_blank"><img src="http://img.youtube.com/vi/f5Uiwmg9cH0/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
